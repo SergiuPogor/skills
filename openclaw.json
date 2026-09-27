@@ -2,8 +2,19 @@
   "schema": "openclaw-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-09-27",
-  "total": 3063,
+  "total": 3064,
   "skills": [
+    {
+      "slug": "review-taiwan-traditional-chinese-drafts-with-speak-human-tw",
+      "name": "Review Taiwan Traditional Chinese drafts with speak-human-tw",
+      "title": "Review Taiwan Traditional Chinese drafts with speak-human-tw",
+      "description": "Use speak-human-tw when an agent should identify AI-writing fingerprints in Taiwan Traditional Chinese drafts, suggest localized revisions, and preserve the writer's intent instead of…",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "github_repo": "Raymondhou0917/speak-human-tw"
+    },
     {
       "slug": "ralph-loop",
       "name": "Ralph Loop",

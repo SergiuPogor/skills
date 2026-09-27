@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-09-27
-# Total: 3063 skills
+# Total: 3064 skills
+
+## Review Taiwan Traditional Chinese drafts with speak-human-tw
+slug: review-taiwan-traditional-chinese-drafts-with-speak-human-tw
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use speak-human-tw when an agent should identify AI-writing fingerprints in Taiwan Traditional Chinese drafts, suggest localized revisions, and preserve the writer's intent instead of…
+url: https://agentskillexchange.com/skills/review-taiwan-traditional-chinese-drafts-with-speak-human-tw/
 
 ## Ralph Loop
 slug: ralph-loop
