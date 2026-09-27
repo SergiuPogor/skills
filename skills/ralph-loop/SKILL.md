@@ -2,10 +2,10 @@
 name: "Ralph Loop"
 slug: "ralph-loop"
 description: "Run a ticket queue across agent sessions with a self-verifying loop: one item per iteration, verification gates outside the worker, commits only from a verified tree on a topic branch."
+verification: "listed"
+source: "https://github.com/Thingscorp/skills/tree/main/skills/ralph-loop"
 category: "Templates & Workflows"
 framework: "Custom Agents"
-verification: listed
-source: "https://github.com/Thingscorp/skills/tree/main/skills/ralph-loop"
 ---
 
 # Ralph Loop
@@ -16,20 +16,9 @@ The core discipline: never let the worker verify its own work. Each iteration sp
 
 ## Installation
 
-### skills.sh installer (recommended)
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-```bash
-npm exec --package=skills@1.5.7 -- skills add Thingscorp/skills --skill ralph-loop
-```
-
-### Manual install (any agent)
-
-```bash
-git clone https://github.com/Thingscorp/skills.git
-cp -R skills/ralph-loop ~/.claude/skills/ralph-loop
-```
-
-Project-local instead of global: copy to `.claude/skills/ralph-loop` (Claude Code), `.cursor/skills/ralph-loop` (Cursor), or `.codex/skills/ralph-loop` (Codex CLI).
+- Source: https://github.com/Thingscorp/skills/tree/main/skills/ralph-loop
 
 ## Source
 

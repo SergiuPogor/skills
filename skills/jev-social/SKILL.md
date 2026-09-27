@@ -2,6 +2,7 @@
 name: "Jev Social"
 slug: "jev-social"
 description: "Run browser-grounded, read-only Instagram, TikTok, or LinkedIn research with Jev choosing bounded operations and the local socai CLI returning source-linked evidence."
+github_stars: 90
 verification: "listed"
 source: "https://github.com/socai-io/jev-social"
 author: "socai-io"
@@ -10,6 +11,7 @@ category: "Research & Scraping"
 framework: "Multi-Framework"
 tool_ecosystem:
   github_repo: "socai-io/jev-social"
+  github_stars: 90
 ---
 
 # Jev Social
