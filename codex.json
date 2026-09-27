@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-09-27",
-  "total": 3064,
+  "total": 3065,
   "skills": [
+    {
+      "slug": "build-edge-to-cloud-agent-memory-with-nodedb",
+      "name": "Build edge-to-cloud agent memory with NodeDB",
+      "title": "Build edge-to-cloud agent memory with NodeDB",
+      "description": "Use NodeDB when an agent system needs one durable, queryable memory store for semantic, graph, document, time-series, and key-value context that can run embedded,…",
+      "category": "Integrations & Connectors",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/NodeDB-Lab/nodedb",
+      "github_repo": "NodeDB-Lab/nodedb"
+    },
     {
       "slug": "review-taiwan-traditional-chinese-drafts-with-speak-human-tw",
       "name": "Review Taiwan Traditional Chinese drafts with speak-human-tw",

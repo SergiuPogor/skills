@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-09-27
-# Total: 3064 skills
+# Total: 3065 skills
+
+## Build edge-to-cloud agent memory with NodeDB
+slug: build-edge-to-cloud-agent-memory-with-nodedb
+category: Integrations & Connectors
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use NodeDB when an agent system needs one durable, queryable memory store for semantic, graph, document, time-series, and key-value context that can run embedded,…
+url: https://agentskillexchange.com/skills/build-edge-to-cloud-agent-memory-with-nodedb/
 
 ## Review Taiwan Traditional Chinese drafts with speak-human-tw
 slug: review-taiwan-traditional-chinese-drafts-with-speak-human-tw

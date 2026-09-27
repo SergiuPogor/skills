@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3064 published skills** across **17 categories** · 2,561 security reviewed · Updated 2026-09-27 13:26 UTC
+> **3065 published skills** across **17 categories** · 2,561 security reviewed · Updated 2026-09-27 19:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -1870,7 +1870,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Runb
 | [Tune Supabase Postgres queries, indexing, and RLS with Supabase Postgres Best Practices](skills/tune-supabase-postgres-queries-indexing-and-rls-with-supabase-postgres-best-practices/) | Review Supabase Postgres work for query performance, schema design, indexing, connection handling, and RLS pitfalls… | Security Reviewed | — | — |
 
 
-### 🔗 Integrations & Connectors (173 skills)
+### 🔗 Integrations & Connectors (174 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Integrations%20%26%20Connectors&sort=downloads)
 
@@ -2011,6 +2011,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Inte
 | [Connect accounting agents to Xero through MCP](skills/connect-accounting-agents-to-xero-through-mcp/) | Use Xero MCP Server to give approved MCP clients controlled access to Xero accounting data, reports, invoices,… | Security Reviewed | 294 | 8k/wk |
 | [Bundle Agent Quotas Through cc-router](skills/bundle-agent-quotas-through-cc-router/) | Run cc-router as a local desktop gateway that exposes Anthropic, OpenAI Responses, and Chat Completions endpoints so… | Security Reviewed | 252 | — |
 | [Route production agent loops through BitRouter](skills/route-production-agent-loops-through-bitrouter/) | Use BitRouter as an agentic LLM gateway that routes model, tool, and sub-agent calls with scoped keys, cost policy,… | Security Reviewed | 202 | 258/wk |
+| [Build edge-to-cloud agent memory with NodeDB](skills/build-edge-to-cloud-agent-memory-with-nodedb/) | Use NodeDB when an agent system needs one durable, queryable memory store for semantic, graph, document,… | Security Reviewed | 201 | — |
 | [Manage Baidu Netdisk Files From Agent Workflows](skills/manage-baidu-netdisk-files-from-agent-workflows/) | Use the Baidu Netdisk storage skill to upload, download, transfer, share, search, move, copy, rename, and list cloud… | Published | 158 | — |
 | [Build deterministic SaaS API test worlds for agents with Backlot](skills/build-deterministic-saas-api-test-worlds-for-agents-with-backlot/) | Run local Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3, and other SaaS API emulators over a controlled… | Security Reviewed | 155 | — |
 | [Work with AFFiNE workspaces, documents, and databases from MCP-compatible agents](skills/work-with-affine-workspaces-documents-and-databases-from-mcp-compatible-agents/) | Use affine-mcp-server when an agent needs tool-callable access to AFFiNE workspaces, documents, databases, and… | Security Reviewed | 142 | 2.1k/wk |
