@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3060 published skills** across **17 categories** · 2,559 security reviewed · Updated 2026-09-27 01:26 UTC
+> **3063 published skills** across **17 categories** · 2,559 security reviewed · Updated 2026-09-27 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (498 skills)
+### 🛠️ Developer Tools (500 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -471,6 +471,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Meilisearch MCP Server for AI-Powered Search Integration](skills/meilisearch-mcp-server-ai-search/) | Official Model Context Protocol server that connects LLMs to Meilisearch for lightning-fast search, index… | Security Reviewed | 181 | — |
 | [Coordinate project-scoped CLI agent sessions with Termio](skills/coordinate-project-scoped-cli-agent-sessions-with-termio/) | Use Termio's `termio sessions` CLI to list, watch, spawn, send to, read, and close sibling coding-agent sessions in… | Security Reviewed | 180 | — |
 | [Compress repeated agent context and command output before it reaches coding agents with sqz](skills/compress-repeated-agent-context-and-command-output-before-it-reaches-coding-agents-with-sqz/) | Reduces token burn by compressing command output and deduplicating repeated file reads before they are sent to… | Published | 165 | — |
+| [Plan and verify parallel coding-agent tasks with Ordewell](skills/plan-and-verify-parallel-coding-agent-tasks-with-ordewell/) | Use Ordewell when an operator wants one goal turned into an editable dependency graph of coding-agent tasks, each… | Security Reviewed | 162 | 710/wk |
 | [Coordinate multi-model coding squads with Vibe Squad](skills/coordinate-multi-model-coding-squads-with-vibe-squad/) | Use Vibe Squad to route a scoped development goal through a Markdown-defined coordinator, specialist roles, isolated… | Security Reviewed | 161 | — |
 | [Move agent chat histories into DeepSeek Harness with DSH Chat Import](skills/move-agent-chat-histories-into-deepseek-harness-with-dsh-chat-import/) | Preview, import, resume, export, and sync coding-agent conversations across Claude Code, Codex, ChatGPT, Cursor,… | Security Reviewed | 155 | 18.7k/wk |
 | [Coordinate parallel coding-agent worktrees and terminals with Ouijit](skills/coordinate-parallel-coding-agent-worktrees-and-terminals-with-ouijit/) | Use Ouijit to manage parallel CLI coding-agent tasks with per-task git worktrees, integrated terminals, lifecycle… | Security Reviewed | 154 | — |
@@ -498,6 +499,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Git Diff Complexity Analyzer](skills/git-diff-complexity-analyzer/) | Analyzes git diffs using libgit2 and radon to compute cyclomatic complexity changes per function. Flags complexity… | Security Reviewed | — | — |
 | [GitHub Copilot — AI-Powered Code Completion and Chat Assistant](skills/github-copilot-ai-code-assistant/) | GitHub Copilot is an AI pair programmer providing real-time code suggestions, multi-line completions, and chat-based… | Security Reviewed | — | — |
 | [Google Cloud CLI (gcloud) — Command-Line Interface for GCP](skills/google-cloud-cli-gcloud/) | The Google Cloud CLI provides command-line access to 200+ GCP services including Compute Engine, Cloud Run, GKE,… | Published | — | — |
+| [Hyperconsciousness Knowledge Discovery](skills/hyperconsciousness-knowledge-discovery/) | Use the Hyperconsciousness hc CLI to find installed skills, PKM references, and encrypted knowledge with bounded,… | Published | — | — |
 | [Jira Advanced Query Agent](skills/jira-advanced-query-agent/) | Jira Advanced Query Agent is built around Jira issue tracking platform. It gives an agent a more technical and… | Published | — | — |
 | [Linear Issue Manager](skills/linear-issue-manager/) | Linear Issue Manager is built around GraphQL API ecosystem. The underlying ecosystem is represented by… | Security Reviewed | — | — |
 | [LLDB Debug Session Automator](skills/lldb-debug-session-automator/) | Automates LLDB debugging sessions with scripted breakpoint management and expression evaluation. Uses the LLDB… | Security Reviewed | — | — |
@@ -514,7 +516,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Zinc Universal Checkout](skills/zinc-universal-checkout/) | Discover, buy, track, and return products across Amazon, Walmart, Target, Best Buy, eBay, and 50+ US retailers via… | Published | — | — |
 
 
-### 📄 Templates & Workflows (256 skills)
+### 📄 Templates & Workflows (257 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Templates%20%26%20Workflows&sort=downloads)
 
@@ -770,6 +772,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Temp
 | [Incident Response Template Generator](skills/incident-response-template-generator/) | Creates structured incident response templates using the PagerDuty Events API v2, Jira REST API for ticket creation,… | Security Reviewed | — | — |
 | [Keep GitHub wiki pages synced with recently merged code changes](skills/keep-github-wiki-pages-synced-with-recently-merged-code-changes/) | This entry turns GitHub Next's Agentic Wiki Writer into a documentation-maintenance workflow. The agent watches for… | Security Reviewed | — | — |
 | [Makefile Workflow Generator](skills/makefile-workflow-generator/) | Generates project Makefiles with standard targets using GNU Make syntax, autodeps pattern rules, and integration… | Security Reviewed | — | — |
+| [Ralph Loop](skills/ralph-loop/) | Run a ticket queue across agent sessions with a self-verifying loop: one item per iteration, verification gates… | Published | — | — |
 | [Review open pull requests against repository contribution guidelines](skills/review-open-pull-requests-against-repository-contribution-guidelines/) | This entry turns GitHub Next's Contribution Check workflow into a maintainer-facing agent routine. The agent batches… | Security Reviewed | — | — |
 | [Run context → spec → implement coding loops in Claude Code with Conductor](skills/run-context-spec-and-implement-coding-loops-in-claude-code-with-conductor/) | Turn Claude Code into a structured project workflow that captures context, plans work, and executes implementation… | Security Reviewed | — | — |
 | [Scaffold and bundle rich single-file web artifacts with React, Tailwind, and shadcn/ui](skills/scaffold-and-bundle-rich-single-file-web-artifacts-with-react-tailwind-and-shadcn-ui/) | Use Anthropic's web-artifacts-builder skill to scaffold a React artifact project, build a richer interface with… | Security Reviewed | — | — |
@@ -2323,6 +2326,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Rese
 | [Common Crawl URL Index Miner](skills/common-crawl-url-index-miner/) | Queries the Common Crawl Index API and CC-MAIN collections to surface historical URL coverage, MIME types, and crawl… | Security Reviewed | 127 | — |
 | [Exa JS Web Search SDK for AI Applications](skills/exa-js-web-search-sdk-ai-applications/) | exa-js is the official JavaScript SDK for Exa, a web search API built for AI workflows. It gives agents a concrete… | Security Reviewed | 126 | 429.9k/wk |
 | [Xquik X Data API Skill](skills/xquik-x-data-api-skill/) | Use Xquik from coding agents to search X posts, inspect profiles, run bulk extractions, monitor accounts or… | Security Reviewed | 111 | 136/wk |
+| [Jev Social](skills/jev-social/) | Run browser-grounded, read-only Instagram, TikTok, or LinkedIn research with Jev choosing bounded operations and the… | Published | 90 | — |
 | [Evaluate B2B software vendors by interrogating their agents and scoring the evidence with buyer-eval-skill](skills/evaluate-b2b-software-vendors-by-interrogating-their-agents-and-scoring-the-evidence-with-buyer-eval-skill/) | Use Claude Code to run a structured vendor diligence workflow that questions vendor agents, cross-checks claims, and… | Security Reviewed | 55 | — |
 | [Use an escalating scrape strategy in Claude Code before reaching for browser automation](skills/use-an-escalating-scrape-strategy-in-claude-code-before-reaching-for-browser-automation/) | Start with cheap static fetches, escalate to a browser only when needed, validate findings, and turn the result into… | Security Reviewed | 38 | — |
 | [Academic Paper Citation Network Mapper](skills/academic-paper-citation-network-mapper/) | Builds citation networks from Semantic Scholar API and CrossRef DOI metadata. Visualizes paper influence graphs… | Published | — | — |
@@ -2335,7 +2339,6 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Rese
 | [Diffbot Article Extraction Verifier](skills/diffbot-article-extraction-verifier/) | Validates article extraction quality using the Diffbot Article API and Analyze API, checking fields like `title`,… | Security Reviewed | — | — |
 | [Diffbot Knowledge Graph Extractor](skills/diffbot-knowledge-graph-extractor/) | Extracts structured entities from web pages using the Diffbot Extraction API and Knowledge Graph. Supports article,… | Security Reviewed | — | — |
 | [Find Products by Intent with Mydentify](skills/find-products-by-intent-with-mydentify/) | Use Mydentify's public intent and product feeds to find software by the outcome a person wants, then return… | Published | — | — |
-| [Jev Social](skills/jev-social/) | Run browser-grounded, read-only Instagram, TikTok, or LinkedIn research with Jev choosing bounded operations and the… | Published | — | — |
 | [Jina Reader API Skill](skills/jina-reader-api-skill/) | Extracts clean markdown content from any URL using the Jina Reader API (r.jina.ai). Handles JavaScript-rendered… | Security Reviewed | — | — |
 | [OSINT Domain Intelligence Scanner](skills/osint-domain-intelligence-scanner/) | Performs deep OSINT analysis on domains using Shodan API, SecurityTrails DNS history, and WHOIS RDAP lookups.… | Published | — | — |
 | [Patent Landscape Analyzer](skills/patent-landscape-analyzer/) | Searches the USPTO PatentsView API and European Patent Office OPS (Open Patent Services) API for patent grants,… | Published | — | — |

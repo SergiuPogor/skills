@@ -141,6 +141,7 @@ Web research, data collection, content aggregation, and information gathering.
 | [Common Crawl URL Index Miner](../../skills/common-crawl-url-index-miner/) | 127 | — |
 | [Exa JS Web Search SDK for AI Applications](../../skills/exa-js-web-search-sdk-ai-applications/) | 126 | 429.9k/wk |
 | [Xquik X Data API Skill](../../skills/xquik-x-data-api-skill/) | 111 | 136/wk |
+| [Jev Social](../../skills/jev-social/) | 90 | — |
 | [Evaluate B2B software vendors by interrogating their agents and scoring the evidence with buyer-eval-skill](../../skills/evaluate-b2b-software-vendors-by-interrogating-their-agents-and-scoring-the-evidence-with-buyer-eval-skill/) | 55 | — |
 | [Use an escalating scrape strategy in Claude Code before reaching for browser automation](../../skills/use-an-escalating-scrape-strategy-in-claude-code-before-reaching-for-browser-automation/) | 38 | — |
 | [Academic Paper Citation Network Mapper](../../skills/academic-paper-citation-network-mapper/) | — | — |
@@ -153,7 +154,6 @@ Web research, data collection, content aggregation, and information gathering.
 | [Diffbot Article Extraction Verifier](../../skills/diffbot-article-extraction-verifier/) | — | — |
 | [Diffbot Knowledge Graph Extractor](../../skills/diffbot-knowledge-graph-extractor/) | — | — |
 | [Find Products by Intent with Mydentify](../../skills/find-products-by-intent-with-mydentify/) | — | — |
-| [Jev Social](../../skills/jev-social/) | — | — |
 | [Jina Reader API Skill](../../skills/jina-reader-api-skill/) | — | — |
 | [OSINT Domain Intelligence Scanner](../../skills/osint-domain-intelligence-scanner/) | — | — |
 | [Patent Landscape Analyzer](../../skills/patent-landscape-analyzer/) | — | — |

@@ -497,6 +497,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Meilisearch MCP Server for AI-Powered Search Integration](../../skills/meilisearch-mcp-server-ai-search/) | 181 | — |
 | [Coordinate project-scoped CLI agent sessions with Termio](../../skills/coordinate-project-scoped-cli-agent-sessions-with-termio/) | 180 | — |
 | [Compress repeated agent context and command output before it reaches coding agents with sqz](../../skills/compress-repeated-agent-context-and-command-output-before-it-reaches-coding-agents-with-sqz/) | 165 | — |
+| [Plan and verify parallel coding-agent tasks with Ordewell](../../skills/plan-and-verify-parallel-coding-agent-tasks-with-ordewell/) | 162 | 710/wk |
 | [Coordinate multi-model coding squads with Vibe Squad](../../skills/coordinate-multi-model-coding-squads-with-vibe-squad/) | 161 | — |
 | [Move agent chat histories into DeepSeek Harness with DSH Chat Import](../../skills/move-agent-chat-histories-into-deepseek-harness-with-dsh-chat-import/) | 155 | 18.7k/wk |
 | [Coordinate parallel coding-agent worktrees and terminals with Ouijit](../../skills/coordinate-parallel-coding-agent-worktrees-and-terminals-with-ouijit/) | 154 | — |
@@ -524,6 +525,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Git Diff Complexity Analyzer](../../skills/git-diff-complexity-analyzer/) | — | — |
 | [GitHub Copilot — AI-Powered Code Completion and Chat Assistant](../../skills/github-copilot-ai-code-assistant/) | — | — |
 | [Google Cloud CLI (gcloud) — Command-Line Interface for GCP](../../skills/google-cloud-cli-gcloud/) | — | — |
+| [Hyperconsciousness Knowledge Discovery](../../skills/hyperconsciousness-knowledge-discovery/) | — | — |
 | [Jira Advanced Query Agent](../../skills/jira-advanced-query-agent/) | — | — |
 | [Linear Issue Manager](../../skills/linear-issue-manager/) | — | — |
 | [LLDB Debug Session Automator](../../skills/lldb-debug-session-automator/) | — | — |

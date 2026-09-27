@@ -1,7 +1,31 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-09-27
-# Total: 3060 skills
+# Total: 3063 skills
+
+## Ralph Loop
+slug: ralph-loop
+category: Templates & Workflows
+framework: Custom Agents
+verification: Published
+description: Run a ticket queue across agent sessions with a self-verifying loop: one item per iteration, verification gates outside the worker, commits only from a…
+url: https://agentskillexchange.com/skills/ralph-loop/
+
+## Hyperconsciousness Knowledge Discovery
+slug: hyperconsciousness-knowledge-discovery
+category: Developer Tools
+framework: Claude Code
+verification: Published
+description: Use the Hyperconsciousness hc CLI to find installed skills, PKM references, and encrypted knowledge with bounded, read-only queries when the user requests local context…
+url: https://agentskillexchange.com/skills/hyperconsciousness-knowledge-discovery/
+
+## Plan and verify parallel coding-agent tasks with Ordewell
+slug: plan-and-verify-parallel-coding-agent-tasks-with-ordewell
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use Ordewell when an operator wants one goal turned into an editable dependency graph of coding-agent tasks, each with its own runner, model, branch,…
+url: https://agentskillexchange.com/skills/plan-and-verify-parallel-coding-agent-tasks-with-ordewell/
 
 ## Run portable agent-team missions with Pragma
 slug: run-portable-agent-team-missions-with-pragma

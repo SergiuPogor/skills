@@ -1,8 +1,45 @@
 {
   "version": "2.0",
-  "total": 3060,
+  "total": 3063,
   "generated": "2026-09-27",
   "skills": [
+    {
+      "slug": "ralph-loop",
+      "name": "Ralph Loop",
+      "title": "Ralph Loop",
+      "description": "Run a ticket queue across agent sessions with a self-verifying loop: one item per iteration, verification gates outside the worker, commits only from a…",
+      "category": "Templates & Workflows",
+      "framework": "Custom Agents",
+      "verification": "listed",
+      "source_url": "https://github.com/Thingscorp/skills/tree/main/skills/ralph-loop",
+      "github_repo": "Thingscorp/skills"
+    },
+    {
+      "slug": "hyperconsciousness-knowledge-discovery",
+      "name": "Hyperconsciousness Knowledge Discovery",
+      "title": "Hyperconsciousness Knowledge Discovery",
+      "description": "Use the Hyperconsciousness hc CLI to find installed skills, PKM references, and encrypted knowledge with bounded, read-only queries when the user requests local context…",
+      "category": "Developer Tools",
+      "framework": "Claude Code",
+      "verification": "listed",
+      "source_url": "https://github.com/louis030195/hyperconsciousness",
+      "github_repo": "louis030195/hyperconsciousness"
+    },
+    {
+      "slug": "plan-and-verify-parallel-coding-agent-tasks-with-ordewell",
+      "name": "Plan and verify parallel coding-agent tasks with Ordewell",
+      "title": "Plan and verify parallel coding-agent tasks with Ordewell",
+      "description": "Use Ordewell when an operator wants one goal turned into an editable dependency graph of coding-agent tasks, each with its own runner, model, branch,…",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "signals": {
+        "github_stars": 162,
+        "npm_weekly_downloads": 710
+      },
+      "source_url": "https://github.com/ordewell/ordewell",
+      "github_repo": "ordewell/ordewell"
+    },
     {
       "slug": "run-portable-agent-team-missions-with-pragma",
       "name": "Run portable agent-team missions with Pragma",
@@ -112,6 +149,9 @@
       "category": "Research & Scraping",
       "framework": "Multi-Framework",
       "verification": "listed",
+      "signals": {
+        "github_stars": 90
+      },
       "source_url": "https://github.com/socai-io/jev-social",
       "github_repo": "socai-io/jev-social"
     },
