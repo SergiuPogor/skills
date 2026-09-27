@@ -13,7 +13,7 @@ tool_ecosystem:
   github_repo: "openai/openai-node"
   github_stars: 10942
   npm_package: "openai"
-  npm_weekly_downloads: 36003124
+  npm_weekly_downloads: 43864841
 ---
 
 # OpenAI Image Gen
