@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-09-28",
-  "total": 3068,
+  "total": 3069,
   "skills": [
+    {
+      "slug": "run-persistent-multi-agent-terminal-workspaces-with-tuios",
+      "name": "Run persistent multi-agent terminal workspaces with TUIOS",
+      "title": "Run persistent multi-agent terminal workspaces with TUIOS",
+      "description": "Use TUIOS to keep coding agents in persistent tiled terminal sessions, monitor their state, route Inbox items, and coordinate work across local or remote…",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/Gaurav-Gosain/tuios",
+      "github_repo": "Gaurav-Gosain/tuios"
+    },
     {
       "slug": "run-managed-claude-code-and-codex-teams-with-openrig",
       "name": "Run managed Claude Code and Codex teams with OpenRig",

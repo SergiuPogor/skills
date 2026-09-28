@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3068 published skills** across **17 categories** · 2,565 security reviewed · Updated 2026-09-28 13:26 UTC
+> **3069 published skills** across **17 categories** · 2,565 security reviewed · Updated 2026-09-28 19:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (503 skills)
+### 🛠️ Developer Tools (504 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -293,6 +293,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Build enterprise-ready JVM agents with JetBrains Koog](skills/build-enterprise-ready-jvm-agents-with-jetbrains-koog/) | Use JetBrains Koog to define typed, fault-tolerant AI agents that run inside JVM, Kotlin, backend, mobile, or… | Security Reviewed | 4.3k | — |
 | [pdfme Open Source TypeScript PDF Generation Library with WYSIWYG Designer](skills/pdfme-typescript-pdf-generation-library/) | pdfme is an open-source TypeScript and React library for generating PDFs programmatically. It includes a WYSIWYG… | Security Reviewed | 4.3k | — |
 | [Tera Jinja2-Inspired Template Engine for Rust](skills/tera-rust-template-engine/) | Tera is a powerful template engine for Rust inspired by Jinja2 and Django templates. It provides template… | Published | 4.2k | — |
+| [Run persistent multi-agent terminal workspaces with TUIOS](skills/run-persistent-multi-agent-terminal-workspaces-with-tuios/) | Use TUIOS to keep coding agents in persistent tiled terminal sessions, monitor their state, route Inbox items, and… | Security Reviewed | 4.1k | — |
 | [Run structured multi-perspective decisions with Council of High Intelligence](skills/run-structured-multi-perspective-decisions-with-council-of-high-intelligence/) | Use Council of High Intelligence when an agent should convene a structured panel, force disagreement, and return a… | Security Reviewed | 4.1k | — |
 | [Manage stacked commits, repair commit graphs, and sync branchless review flows with git-branchless](skills/manage-stacked-commits-repair-commit-graphs-and-sync-branchless-review-flows-with-git-branchless/) | Use smartlog, restack, undo, and sync commands to keep stacked commit workflows reviewable without juggling… | Security Reviewed | 4k | — |
 | [Run high-volume S3 copy, sync, and delete jobs faster than ad hoc aws s3 loops with s5cmd](skills/run-high-volume-s3-copy-sync-and-delete-jobs-faster-than-ad-hoc-aws-s3-loops-with-s5cmd/) | Execute large parallel object-store operations from command files or shell pipelines when agents need speed and… | Security Reviewed | 4k | — |

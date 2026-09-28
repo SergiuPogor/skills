@@ -319,6 +319,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Build enterprise-ready JVM agents with JetBrains Koog](../../skills/build-enterprise-ready-jvm-agents-with-jetbrains-koog/) | 4.3k | — |
 | [pdfme Open Source TypeScript PDF Generation Library with WYSIWYG Designer](../../skills/pdfme-typescript-pdf-generation-library/) | 4.3k | — |
 | [Tera Jinja2-Inspired Template Engine for Rust](../../skills/tera-rust-template-engine/) | 4.2k | — |
+| [Run persistent multi-agent terminal workspaces with TUIOS](../../skills/run-persistent-multi-agent-terminal-workspaces-with-tuios/) | 4.1k | — |
 | [Run structured multi-perspective decisions with Council of High Intelligence](../../skills/run-structured-multi-perspective-decisions-with-council-of-high-intelligence/) | 4.1k | — |
 | [Manage stacked commits, repair commit graphs, and sync branchless review flows with git-branchless](../../skills/manage-stacked-commits-repair-commit-graphs-and-sync-branchless-review-flows-with-git-branchless/) | 4k | — |
 | [Run high-volume S3 copy, sync, and delete jobs faster than ad hoc aws s3 loops with s5cmd](../../skills/run-high-volume-s3-copy-sync-and-delete-jobs-faster-than-ad-hoc-aws-s3-loops-with-s5cmd/) | 4k | — |
