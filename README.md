@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C065-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C066-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C562-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,065 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,066 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,7 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Find repository context for coding agents with Jevgrep](skills/find-repository-context-for-coding-agents-with-jevgrep/) | Ask a natural-language codebase question and return ranked files, source excerpts, and reading leads so a coding agent... | 883 | Developer Tools |
 | [Build edge-to-cloud agent memory with NodeDB](skills/build-edge-to-cloud-agent-memory-with-nodedb/) | Use NodeDB when an agent system needs one durable, queryable memory store for semantic, graph, document, time-series, and... | 201 | Integrations & Connectors |
 | [Review Taiwan Traditional Chinese drafts with speak-human-tw](skills/review-taiwan-traditional-chinese-drafts-with-speak-human-tw/) | Use speak-human-tw when an agent should identify AI-writing fingerprints in Taiwan Traditional Chinese drafts, suggest localized revisions, and... | 1.0k | Developer Tools |
 | [Ralph Loop](skills/ralph-loop/) | Run a ticket queue across agent sessions with a self-verifying loop: one item per iteration, verification gates outside... | - | Templates & Workflows |
@@ -96,7 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Route agent decisions through Hermes JEV Skills](skills/route-agent-decisions-through-hermes-jev-skills/) | Use Hermes JEV Skills when an operator wants fast, low-cost typed decisions for model routing, skill selection, memory... | 841 | Developer Tools |
 | [Expose internal systems to agents through AnythingMCP](skills/expose-internal-systems-to-agents-through-anythingmcp/) | Use AnythingMCP when an operator needs to turn REST, SOAP, GraphQL, SQL, existing MCP servers, or prebuilt adapters... | 373 | Integrations & Connectors |
 | [Generate API docs, SDKs, and MCP servers with Cortex](skills/generate-api-docs-sdks-and-mcp-servers-with-cortex/) | Use Cortex when an agent or API operator needs to turn OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, or Markdown... | 3.2k | Library & API Reference |
-| [Coordinate Codex and Claude Code workspaces with Codexia](skills/coordinate-codex-and-claude-code-workspaces-with-codexia/) | Use Codexia when an operator needs a desktop or headless command center for Codex CLI, Claude Code, and... | 918 | Developer Tools |
 
 ---
 
@@ -140,7 +140,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 
 | | Category | Skills | What's inside |
 |---|---|---:|---|
-| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 501 | CLI tools, scaffolders, dev environment setup |
+| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 502 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 257 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 251 | Vulnerability scanning, auth setup, compliance |
 | 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 225 | ETL pipelines, parsing, format conversion |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,065 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,066 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,562 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

@@ -1,8 +1,23 @@
 {
   "version": "2.0",
-  "total": 3065,
+  "total": 3066,
   "generated": "2026-09-28",
   "skills": [
+    {
+      "slug": "find-repository-context-for-coding-agents-with-jevgrep",
+      "name": "Find repository context for coding agents with Jevgrep",
+      "title": "Find repository context for coding agents with Jevgrep",
+      "description": "Ask a natural-language codebase question and return ranked files, source excerpts, and reading leads so a coding agent can start work with grounded context.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "signals": {
+        "github_stars": 883,
+        "npm_weekly_downloads": 491
+      },
+      "source_url": "https://github.com/dzhng/jevgrep",
+      "github_repo": "dzhng/jevgrep"
+    },
     {
       "slug": "build-edge-to-cloud-agent-memory-with-nodedb",
       "name": "Build edge-to-cloud agent memory with NodeDB",

@@ -418,6 +418,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Run phased coding-agent delivery workflows with AgentSys](../../skills/run-phased-coding-agent-delivery-workflows-with-agentsys/) | 896 | 814/wk |
 | [Reduce coding-agent context load with Token Savior](../../skills/reduce-coding-agent-context-load-with-token-savior/) | 893 | — |
 | [Run StyleSeed Design Gates in Coding-Agent UI Builds](../../skills/run-styleseed-design-gates-in-coding-agent-ui-builds/) | 884 | — |
+| [Find repository context for coding agents with Jevgrep](../../skills/find-repository-context-for-coding-agents-with-jevgrep/) | 883 | 491/wk |
 | [CircleCI MCP Server](../../skills/circleci-mcp-server/) | 844 | — |
 | [Route agent decisions through Hermes JEV Skills](../../skills/route-agent-decisions-through-hermes-jev-skills/) | 841 | — |
 | [Expose repository code intelligence to agents with Gortex](../../skills/expose-repository-code-intelligence-to-agents-with-gortex/) | 840 | — |

@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3065 published skills** across **17 categories** · 2,562 security reviewed · Updated 2026-09-28 01:27 UTC
+> **3066 published skills** across **17 categories** · 2,562 security reviewed · Updated 2026-09-28 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (501 skills)
+### 🛠️ Developer Tools (502 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -392,6 +392,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Run phased coding-agent delivery workflows with AgentSys](skills/run-phased-coding-agent-delivery-workflows-with-agentsys/) | Use AgentSys to install and run structured coding-agent pipelines for task discovery, delivery preparation, drift… | Security Reviewed | 896 | 814/wk |
 | [Reduce coding-agent context load with Token Savior](skills/reduce-coding-agent-context-load-with-token-savior/) | Connect coding agents to a Token Savior MCP server for structural code navigation, persistent recall, compact… | Security Reviewed | 893 | — |
 | [Run StyleSeed Design Gates in Coding-Agent UI Builds](skills/run-styleseed-design-gates-in-coding-agent-ui-builds/) | Install StyleSeed skills so coding agents choose a design grammar, build UI with project-local rules, score the… | Security Reviewed | 884 | — |
+| [Find repository context for coding agents with Jevgrep](skills/find-repository-context-for-coding-agents-with-jevgrep/) | Ask a natural-language codebase question and return ranked files, source excerpts, and reading leads so a coding… | Security Reviewed | 883 | 491/wk |
 | [CircleCI MCP Server](skills/circleci-mcp-server/) | CircleCI MCP Server is built around CircleCI continuous integration platform. The underlying ecosystem is… | Security Reviewed | 844 | — |
 | [Route agent decisions through Hermes JEV Skills](skills/route-agent-decisions-through-hermes-jev-skills/) | Use Hermes JEV Skills when an operator wants fast, low-cost typed decisions for model routing, skill selection,… | Security Reviewed | 841 | — |
 | [Expose repository code intelligence to agents with Gortex](skills/expose-repository-code-intelligence-to-agents-with-gortex/) | Use Gortex to index one or more repositories into a local code graph and expose symbol, call-chain, blast-radius,… | Published | 840 | — |

@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-09-28
-# Total: 3065 skills
+# Total: 3066 skills
+
+## Find repository context for coding agents with Jevgrep
+slug: find-repository-context-for-coding-agents-with-jevgrep
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Ask a natural-language codebase question and return ranked files, source excerpts, and reading leads so a coding agent can start work with grounded context.
+url: https://agentskillexchange.com/skills/find-repository-context-for-coding-agents-with-jevgrep/
 
 ## Build edge-to-cloud agent memory with NodeDB
 slug: build-edge-to-cloud-agent-memory-with-nodedb
