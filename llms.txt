@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-09-28
-# Total: 3066 skills
+# Total: 3068 skills
+
+## Run managed Claude Code and Codex teams with OpenRig
+slug: run-managed-claude-code-and-codex-teams-with-openrig
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use OpenRig when an operator wants persistent tmux-backed Claude Code and Codex seats, YAML-defined team topology, shared TUI visibility, queue handoffs, recovery, and agent-to-agent…
+url: https://agentskillexchange.com/skills/run-managed-claude-code-and-codex-teams-with-openrig/
+
+## Schedule in-process JavaScript agent jobs with Croner
+slug: schedule-in-process-javascript-agent-jobs-with-croner
+category: Templates & Workflows
+framework: Custom Agents
+verification: Security Reviewed
+description: Use Croner when a JavaScript, TypeScript, Deno, Bun, or browser-based agent service needs zero-dependency cron parsing, next-run previews, timezone-aware schedules, overrun protection, and in-process…
+url: https://agentskillexchange.com/skills/schedule-in-process-javascript-agent-jobs-with-croner/
 
 ## Find repository context for coding agents with Jevgrep
 slug: find-repository-context-for-coding-agents-with-jevgrep

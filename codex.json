@@ -2,8 +2,30 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-09-28",
-  "total": 3066,
+  "total": 3068,
   "skills": [
+    {
+      "slug": "run-managed-claude-code-and-codex-teams-with-openrig",
+      "name": "Run managed Claude Code and Codex teams with OpenRig",
+      "title": "Run managed Claude Code and Codex teams with OpenRig",
+      "description": "Use OpenRig when an operator wants persistent tmux-backed Claude Code and Codex seats, YAML-defined team topology, shared TUI visibility, queue handoffs, recovery, and agent-to-agent…",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/mvschwarz/openrig",
+      "github_repo": "mvschwarz/openrig"
+    },
+    {
+      "slug": "schedule-in-process-javascript-agent-jobs-with-croner",
+      "name": "Schedule in-process JavaScript agent jobs with Croner",
+      "title": "Schedule in-process JavaScript agent jobs with Croner",
+      "description": "Use Croner when a JavaScript, TypeScript, Deno, Bun, or browser-based agent service needs zero-dependency cron parsing, next-run previews, timezone-aware schedules, overrun protection, and in-process…",
+      "category": "Templates & Workflows",
+      "framework": "Custom Agents",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/Hexagon/croner",
+      "github_repo": "Hexagon/croner"
+    },
     {
       "slug": "find-repository-context-for-coding-agents-with-jevgrep",
       "name": "Find repository context for coding agents with Jevgrep",
