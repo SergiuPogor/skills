@@ -195,6 +195,7 @@ Parsing, ETL pipelines, format conversion, data wrangling, and transformation ut
 | [Prepare local retrieval embeddings with FastEmbed](../../skills/prepare-local-retrieval-embeddings-with-fastembed/) | 3k | — |
 | [Prepare agent-ready document memory with Knowhere](../../skills/prepare-agent-ready-document-memory-with-knowhere/) | 3k | — |
 | [Postgres MCP Pro](../../skills/postgres-mcp-pro/) | 2.8k | — |
+| [Extract SEC filings and XBRL financials with edgartools](../../skills/extract-sec-filings-and-xbrl-financials-with-edgartools/) | 2.8k | — |
 | [Convert complex PDFs and document images into agent-ready Markdown with OCRFlux](../../skills/convert-complex-pdfs-and-document-images-into-agent-ready-markdown-with-ocrflux/) | 2.5k | — |
 | [Diff nested JSON, API responses, and config snapshots before approving changes](../../skills/diff-nested-json-api-responses-and-config-snapshots-before-approving-changes/) | 2.5k | — |
 | [Meltano Declarative ELT Data Integration Engine](../../skills/meltano-declarative-elt-data-integration-engine/) | 2.4k | — |

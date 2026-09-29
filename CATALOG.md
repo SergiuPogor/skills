@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3069 published skills** across **17 categories** · 2,567 security reviewed · Updated 2026-09-29 01:27 UTC
+> **3071 published skills** across **17 categories** · 2,567 security reviewed · Updated 2026-09-29 07:27 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -8,7 +8,7 @@
 
 ## Skills by Category
 
-### 🛠️ Developer Tools (504 skills)
+### 🛠️ Developer Tools (505 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Developer%20Tools&sort=downloads)
 
@@ -300,6 +300,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Capture and search AI coding sessions alongside Git history with Entire CLI](skills/capture-and-search-ai-coding-sessions-alongside-git-history-with-entire-cli/) | Record AI coding sessions next to commits so an agent can recover why code changed, resume from checkpoints, and… | Security Reviewed | 4k | — |
 | [Wrangler Cloudflare Workers CLI for Edge Deployment](skills/wrangler-cloudflare-workers-cli-edge-deployment/) | Wrangler is the official command-line tool for building, testing, and deploying Cloudflare Workers. It provides a… | Security Reviewed | 4k | 14M/wk |
 | [Build and debug AI pipelines in an IDE with RocketRide](skills/build-and-debug-ai-pipelines-in-an-ide-with-rocketride/) | Use RocketRide to compose, run, observe, and deploy portable AI pipelines from an IDE or CLI across model providers,… | Security Reviewed | 3.9k | 635/wk |
+| [Run local tool-calling agent inference with Rapid-MLX](skills/run-local-tool-calling-agent-inference-with-rapid-mlx/) | Serve OpenAI- and Anthropic-compatible local LLM endpoints on Apple Silicon so coding agents can run tool-calling… | Security Reviewed | 3.9k | — |
 | [Stancl Tenancy v3 — Multi-Tenant Laravel](skills/tenancy-development/) | Builds multi-tenant Laravel SaaS applications with stancl/tenancy v3. Best when you need domain/subdomain/path-based… | Security Reviewed | 3.8k | — |
 | [Build Java agent transport gateways with Atmosphere](skills/build-java-agent-transport-gateways-with-atmosphere/) | Use Atmosphere to build JVM agent gateways that stream over WebSocket, SSE, gRPC, WebTransport, MCP, A2A, and AG-UI… | Published | 3.8k | — |
 | [Build agent-maintainable reactive UI with ArrowJS](skills/build-agent-maintainable-reactive-ui-with-arrowjs/) | Use ArrowJS when a coding agent needs to add or maintain small reactive web interfaces using DOM-native JavaScript,… | Security Reviewed | 3.8k | 38.7k/wk |
@@ -1045,7 +1046,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Secu
 | [TLS Certificate Chain Validator](skills/tls-certificate-chain-validator/) | Validates TLS/SSL certificate chains using OpenSSL x509 verification and checks OCSP stapling status. Integrates… | Security Reviewed | — | — |
 
 
-### 🔄 Data Extraction & Transformation (225 skills)
+### 🔄 Data Extraction & Transformation (226 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Data%20Extraction%20%26%20Transformation&sort=downloads)
 
@@ -1206,6 +1207,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Data
 | [Prepare local retrieval embeddings with FastEmbed](skills/prepare-local-retrieval-embeddings-with-fastembed/) | Generate dense, sparse, image, and reranking embeddings locally before writing vectors into Qdrant or another… | Security Reviewed | 3k | — |
 | [Prepare agent-ready document memory with Knowhere](skills/prepare-agent-ready-document-memory-with-knowhere/) | Use Knowhere to parse complex documents into hierarchy-native, citation-backed memory that agents can retrieve and… | Security Reviewed | 3k | — |
 | [Postgres MCP Pro](skills/postgres-mcp-pro/) | Query, analyze, and tune PostgreSQL databases through your AI agent with safe access controls. Beyond basic SQL… | Security Reviewed | 2.8k | — |
+| [Extract SEC filings and XBRL financials with edgartools](skills/extract-sec-filings-and-xbrl-financials-with-edgartools/) | Use edgartools to fetch SEC EDGAR filings, parse 10-K/10-Q/8-K documents, and extract XBRL financial data for… | Security Reviewed | 2.8k | — |
 | [Convert complex PDFs and document images into agent-ready Markdown with OCRFlux](skills/convert-complex-pdfs-and-document-images-into-agent-ready-markdown-with-ocrflux/) | Use OCRFlux when agents need local PDF or image parsing into Markdown/JSONL with layout-aware OCR, table handling,… | Security Reviewed | 2.5k | — |
 | [Diff nested JSON, API responses, and config snapshots before approving changes](skills/diff-nested-json-api-responses-and-config-snapshots-before-approving-changes/) | Uses DeepDiff to compare structured objects deeply and return precise additions, removals, value changes, and deltas… | Security Reviewed | 2.5k | — |
 | [Meltano Declarative ELT Data Integration Engine](skills/meltano-declarative-elt-data-integration-engine/) | Meltano is an open-source, CLI-first ELT platform built on the Singer specification. It provides declarative,… | Published | 2.4k | — |

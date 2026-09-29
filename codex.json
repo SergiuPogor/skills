@@ -2,8 +2,30 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-09-29",
-  "total": 3069,
+  "total": 3071,
   "skills": [
+    {
+      "slug": "extract-sec-filings-and-xbrl-financials-with-edgartools",
+      "name": "Extract SEC filings and XBRL financials with edgartools",
+      "title": "Extract SEC filings and XBRL financials with edgartools",
+      "description": "Use edgartools to fetch SEC EDGAR filings, parse 10-K/10-Q/8-K documents, and extract XBRL financial data for repeatable agent research workflows.",
+      "category": "Data Extraction & Transformation",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/dgunning/edgartools",
+      "github_repo": "dgunning/edgartools"
+    },
+    {
+      "slug": "run-local-tool-calling-agent-inference-with-rapid-mlx",
+      "name": "Run local tool-calling agent inference with Rapid-MLX",
+      "title": "Run local tool-calling agent inference with Rapid-MLX",
+      "description": "Serve OpenAI- and Anthropic-compatible local LLM endpoints on Apple Silicon so coding agents can run tool-calling workflows against on-device models.",
+      "category": "Developer Tools",
+      "framework": "Multi-Framework",
+      "verification": "security_reviewed",
+      "source_url": "https://github.com/raullenchai/Rapid-MLX",
+      "github_repo": "raullenchai/Rapid-MLX"
+    },
     {
       "slug": "run-persistent-multi-agent-terminal-workspaces-with-tuios",
       "name": "Run persistent multi-agent terminal workspaces with TUIOS",

@@ -326,6 +326,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Capture and search AI coding sessions alongside Git history with Entire CLI](../../skills/capture-and-search-ai-coding-sessions-alongside-git-history-with-entire-cli/) | 4k | — |
 | [Wrangler Cloudflare Workers CLI for Edge Deployment](../../skills/wrangler-cloudflare-workers-cli-edge-deployment/) | 4k | 14M/wk |
 | [Build and debug AI pipelines in an IDE with RocketRide](../../skills/build-and-debug-ai-pipelines-in-an-ide-with-rocketride/) | 3.9k | 635/wk |
+| [Run local tool-calling agent inference with Rapid-MLX](../../skills/run-local-tool-calling-agent-inference-with-rapid-mlx/) | 3.9k | — |
 | [Stancl Tenancy v3 — Multi-Tenant Laravel](../../skills/tenancy-development/) | 3.8k | — |
 | [Build Java agent transport gateways with Atmosphere](../../skills/build-java-agent-transport-gateways-with-atmosphere/) | 3.8k | — |
 | [Build agent-maintainable reactive UI with ArrowJS](../../skills/build-agent-maintainable-reactive-ui-with-arrowjs/) | 3.8k | 38.7k/wk |

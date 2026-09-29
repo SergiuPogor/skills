@@ -4,7 +4,7 @@
 
 ### Curated and trusted AI agent skills
 
-[![Published](https://img.shields.io/badge/published-3%2C069-6366f1?style=for-the-badge)](CATALOG.md)
+[![Published](https://img.shields.io/badge/published-3%2C071-6366f1?style=for-the-badge)](CATALOG.md)
 [![Industry%20Collections](https://img.shields.io/badge/industry--collections-15-14b8a6?style=for-the-badge)](industries/README.md)
 [![Categories](https://img.shields.io/badge/categories-17-0ea5e9?style=for-the-badge)](categories/README.md)
 [![Security%20Reviewed](https://img.shields.io/badge/security--reviewed-2%2C567-10b981?style=for-the-badge)](verification/)
@@ -12,7 +12,7 @@
 
 **[Catalog](CATALOG.md) · [Live Browse](https://agentskillexchange.com/browse-skills/) · [Categories](categories/README.md) · [Industry Collections](industries/README.md) · [Top Starred](TOP-STARS.md) · [Top Downloaded](TOP-DOWNLOADS.md) · [Submit a Skill](#submit-a-skill)**
 
-*3,069 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
+*3,071 published skills · 15 Industry Collections · 17 categories · Real ecosystem signals · Updated daily*
 
 *Star this repo to keep the agent skill catalog handy and follow new additions.*
 
@@ -87,6 +87,8 @@ See the full overlay index in [industries/README.md](industries/README.md).
 
 | Skill | What it helps with | Stars | Category |
 |---|---|---:|---|
+| [Extract SEC filings and XBRL financials with edgartools](skills/extract-sec-filings-and-xbrl-financials-with-edgartools/) | Use edgartools to fetch SEC EDGAR filings, parse 10-K/10-Q/8-K documents, and extract XBRL financial data for repeatable agent... | 2.8k | Data Extraction & Transformation |
+| [Run local tool-calling agent inference with Rapid-MLX](skills/run-local-tool-calling-agent-inference-with-rapid-mlx/) | Serve OpenAI- and Anthropic-compatible local LLM endpoints on Apple Silicon so coding agents can run tool-calling workflows against... | 3.9k | Developer Tools |
 | [Run persistent multi-agent terminal workspaces with TUIOS](skills/run-persistent-multi-agent-terminal-workspaces-with-tuios/) | Use TUIOS to keep coding agents in persistent tiled terminal sessions, monitor their state, route Inbox items, and... | 4.1k | Developer Tools |
 | [Run managed Claude Code and Codex teams with OpenRig](skills/run-managed-claude-code-and-codex-teams-with-openrig/) | Use OpenRig when an operator wants persistent tmux-backed Claude Code and Codex seats, YAML-defined team topology, shared TUI... | 1.4k | Developer Tools |
 | [Schedule in-process JavaScript agent jobs with Croner](skills/schedule-in-process-javascript-agent-jobs-with-croner/) | Use Croner when a JavaScript, TypeScript, Deno, Bun, or browser-based agent service needs zero-dependency cron parsing, next-run previews... | 2.6k | Templates & Workflows |
@@ -95,8 +97,6 @@ See the full overlay index in [industries/README.md](industries/README.md).
 | [Review Taiwan Traditional Chinese drafts with speak-human-tw](skills/review-taiwan-traditional-chinese-drafts-with-speak-human-tw/) | Use speak-human-tw when an agent should identify AI-writing fingerprints in Taiwan Traditional Chinese drafts, suggest localized revisions, and... | 1.0k | Developer Tools |
 | [Ralph Loop](skills/ralph-loop/) | Run a ticket queue across agent sessions with a self-verifying loop: one item per iteration, verification gates outside... | - | Templates & Workflows |
 | [Hyperconsciousness Knowledge Discovery](skills/hyperconsciousness-knowledge-discovery/) | Use the Hyperconsciousness hc CLI to find installed skills, PKM references, and encrypted knowledge with bounded, read-only queries... | - | Developer Tools |
-| [Plan and verify parallel coding-agent tasks with Ordewell](skills/plan-and-verify-parallel-coding-agent-tasks-with-ordewell/) | Use Ordewell when an operator wants one goal turned into an editable dependency graph of coding-agent tasks, each... | 162 | Developer Tools |
-| [Run portable agent-team missions with Pragma](skills/run-portable-agent-team-missions-with-pragma/) | Use Pragma when an operator wants to define reusable agent teams, flows, memory, permissions, and human checkpoints once... | 151 | Developer Tools |
 
 ---
 
@@ -140,10 +140,10 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 
 | | Category | Skills | What's inside |
 |---|---|---:|---|
-| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 504 | CLI tools, scaffolders, dev environment setup |
+| 🛠️ | [**Developer Tools**](categories/developer-tools/) | 505 | CLI tools, scaffolders, dev environment setup |
 | 📄 | [**Templates & Workflows**](categories/templates-workflows/) | 258 | Scaffolders, boilerplate generators, workflow templates |
 | 🔒 | [**Security & Verification**](categories/security-verification/) | 251 | Vulnerability scanning, auth setup, compliance |
-| 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 225 | ETL pipelines, parsing, format conversion |
+| 🔄 | [**Data Extraction & Transformation**](categories/data-extraction-transformation/) | 226 | ETL pipelines, parsing, format conversion |
 | ✅ | [**Code Quality & Review**](categories/code-quality-review/) | 202 | Linting, code review, test generators, coverage |
 | 🔧 | [**CI/CD Integrations**](categories/ci-cd-integrations/) | 192 | Pipeline configs, deployment automation, build tooling |
 | 📋 | [**Runbooks & Diagnostics**](categories/runbooks-diagnostics/) | 178 | Incident response, troubleshooting, system diagnostics |
@@ -219,7 +219,7 @@ Every skill is backed by a real tool, repo, or package. New skills require real 
 
 | Tier | Count | Meaning |
 |------|------:|---|
-| 📋 **Published** | 3,069 | In the catalog — every skill is backed by a real tool, repo, or package |
+| 📋 **Published** | 3,071 | In the catalog — every skill is backed by a real tool, repo, or package |
 | 🛡️ **Security Reviewed** | 2,567 | Scanned for malicious patterns, prompt injection, and unsafe instructions |
 
 More: [verification/](verification/)

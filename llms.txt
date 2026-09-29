@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-09-29
-# Total: 3069 skills
+# Total: 3071 skills
+
+## Extract SEC filings and XBRL financials with edgartools
+slug: extract-sec-filings-and-xbrl-financials-with-edgartools
+category: Data Extraction & Transformation
+framework: Multi-Framework
+verification: Security Reviewed
+description: Use edgartools to fetch SEC EDGAR filings, parse 10-K/10-Q/8-K documents, and extract XBRL financial data for repeatable agent research workflows.
+url: https://agentskillexchange.com/skills/extract-sec-filings-and-xbrl-financials-with-edgartools/
+
+## Run local tool-calling agent inference with Rapid-MLX
+slug: run-local-tool-calling-agent-inference-with-rapid-mlx
+category: Developer Tools
+framework: Multi-Framework
+verification: Security Reviewed
+description: Serve OpenAI- and Anthropic-compatible local LLM endpoints on Apple Silicon so coding agents can run tool-calling workflows against on-device models.
+url: https://agentskillexchange.com/skills/run-local-tool-calling-agent-inference-with-rapid-mlx/
 
 ## Run persistent multi-agent terminal workspaces with TUIOS
 slug: run-persistent-multi-agent-terminal-workspaces-with-tuios
