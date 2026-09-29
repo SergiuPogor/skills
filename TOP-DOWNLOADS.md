@@ -14,9 +14,9 @@ Skills backed by the most-downloaded npm packages, deduplicated by upstream tool
 | 6 | [Sharp Image CDN Optimizer](skills/sharp-image-cdn-optimizer/) | 52.5M/wk | sharp | Image & Creative Automation |
 | 7 | [Find likely duplicate GitHub issues through parallel search and evidence filtering with Claude Code dedupe](skills/find-likely-duplicate-github-issues-through-parallel-search-and-evidence-filtering-with-claude-code-dedupe/) | 49.9M/wk | claude-code | Templates & Workflows |
 | 8 | [Playwright Accessibility Audit Runner](skills/playwright-accessibility-audit-runner/) | 47.9M/wk | playwright | Browser Automation |
-| 9 | [Jest Unit Test Scaffolder](skills/jest-unit-test-scaffolder/) | 44.8M/wk | jest | Code Quality & Review |
-| 10 | [Webpack Bundle Analyzer Agent](skills/webpack-bundle-analyzer-agent/) | 44.5M/wk | webpack | Developer Tools |
-| 11 | [OpenAI Image Gen](skills/openai-image-gen/) | 44.3M/wk | openai | Image & Creative Automation |
+| 9 | [OpenAI Image Gen](skills/openai-image-gen/) | 44.9M/wk | openai | Image & Creative Automation |
+| 10 | [Jest Unit Test Scaffolder](skills/jest-unit-test-scaffolder/) | 44.8M/wk | jest | Code Quality & Review |
+| 11 | [Webpack Bundle Analyzer Agent](skills/webpack-bundle-analyzer-agent/) | 44.5M/wk | webpack | Developer Tools |
 | 12 | [Puppeteer Browser Automation Library for Chrome and Firefox](skills/puppeteer-browser-automation-library-for-chrome-and-firefox/) | 40.2M/wk | puppeteer | Browser Automation |
 | 13 | [GraphQL Data Federation Agent](skills/graphql-data-federation-agent/) | 34.2M/wk | graphql | Data Extraction & Transformation |
 | 14 | [SVGO SVG Optimization Tool](skills/svgo-svg-optimization-tool/) | 28.7M/wk | svgo | Image & Creative Automation |
@@ -34,7 +34,7 @@ Skills backed by the most-downloaded npm packages, deduplicated by upstream tool
 | 26 | [Cloudflare Workers Deployer](skills/cloudflare-workers-deployer/) | 7.1M/wk | cloudflare | Templates & Workflows |
 | 27 | [Drizzle ORM TypeScript SQL Database Toolkit](skills/drizzle-orm-typescript-sql-database-toolkit/) | 7M/wk | drizzle-orm | Developer Tools |
 | 28 | [Octokit JavaScript GitHub SDK for REST GraphQL and App Automation](skills/octokit-javascript-github-sdk-rest-graphql-app-automation/) | 7M/wk | octokit | Library & API Reference |
-| 29 | [Twilio MCP Server](skills/twilio-mcp-server/) | 6.9M/wk | twilio | Integrations & Connectors |
+| 29 | [Twilio MCP Server](skills/twilio-mcp-server/) | 7M/wk | twilio | Integrations & Connectors |
 | 30 | [Datadog APM Anomaly Detector](skills/datadog-apm-anomaly-detector/) | 6.6M/wk | datadog | Monitoring & Alerts |
 | 31 | [API Client Generator Skill](skills/api-client-generator-skill/) | 5.7M/wk | openapi-generator | Developer Tools |
 | 32 | [SQLite Analyst](skills/sqlite-analyst/) | 5.5M/wk | sqlite | Developer Tools |
