@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Kubernetes Pod Crash Diagnostics](skills/kubernetes-pod-crash-diagnostics-3/)** — Runs kubectl describe pod, kubectl logs --previous, and kubectl get events to diagnose CrashLoopBackOff and OOMKilled pods. Parses container exit codes, resource limits, and liveness probe configurations for…
+**[Apache Superset Dashboard and SQL Exploration Skill](skills/apache-superset-dashboard-sql-exploration-skill/)** — Apache Superset is a widely adopted open-source BI platform for SQL exploration, chart building, and dashboard delivery. This skill is useful when an agent needs to query warehouse…
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
