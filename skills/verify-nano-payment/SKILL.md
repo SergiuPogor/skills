@@ -2,10 +2,10 @@
 name: "Verify a Nano (XNO) Payment"
 slug: "verify-nano-payment"
 description: "Verify that a Nano (XNO) payment has settled: confirm a send/receive block, read its amount and pay-to account from the block (not the request), and check confirmation — read-only against the public Nano RPC (rpc.nano.to), no wallet, no key. Use it whenever an agent has been told it was paid in Nano and needs to confirm the money actually landed before shipping work."
+verification: "listed"
+source: "https://rpc.nano.to/"
 category: "Integrations & Connectors"
 framework: "Custom Agents"
-verification: listed
-source: "https://rpc.nano.to/"
 ---
 
 # Verify a Nano (XNO) Payment
