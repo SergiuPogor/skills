@@ -2,8 +2,29 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-09-30",
-  "total": 3071,
+  "total": 3073,
   "skills": [
+    {
+      "slug": "verify-nano-payment",
+      "name": "Verify a Nano (XNO) Payment",
+      "title": "Verify a Nano (XNO) Payment",
+      "description": "Verify that a Nano (XNO) payment has settled: confirm a send/receive block, read its amount and pay-to account from the block (not the request),…",
+      "category": "Integrations & Connectors",
+      "framework": "Custom Agents",
+      "verification": "listed",
+      "source_url": "https://rpc.nano.to/"
+    },
+    {
+      "slug": "mnemoverse-memory-mcp",
+      "name": "Mnemoverse Memory MCP",
+      "title": "Mnemoverse Memory MCP",
+      "description": "Give Claude Code, Cursor, VS Code and ChatGPT agents hosted persistent memory over MCP that learns from outcomes: the agent calls memory_feedback to report…",
+      "category": "Integrations & Connectors",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/mnemoverse/mcp-memory-server",
+      "github_repo": "mnemoverse/mcp-memory-server"
+    },
     {
       "slug": "extract-sec-filings-and-xbrl-financials-with-edgartools",
       "name": "Extract SEC filings and XBRL financials with edgartools",

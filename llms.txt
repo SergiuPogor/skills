@@ -1,7 +1,23 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-09-30
-# Total: 3071 skills
+# Total: 3073 skills
+
+## Verify a Nano (XNO) Payment
+slug: verify-nano-payment
+category: Integrations & Connectors
+framework: Custom Agents
+verification: Published
+description: Verify that a Nano (XNO) payment has settled: confirm a send/receive block, read its amount and pay-to account from the block (not the request),…
+url: https://agentskillexchange.com/skills/verify-nano-payment/
+
+## Mnemoverse Memory MCP
+slug: mnemoverse-memory-mcp
+category: Integrations & Connectors
+framework: MCP
+verification: Published
+description: Give Claude Code, Cursor, VS Code and ChatGPT agents hosted persistent memory over MCP that learns from outcomes: the agent calls memory_feedback to report…
+url: https://agentskillexchange.com/skills/mnemoverse-memory-mcp/
 
 ## Extract SEC filings and XBRL financials with edgartools
 slug: extract-sec-filings-and-xbrl-financials-with-edgartools
