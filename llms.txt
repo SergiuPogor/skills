@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-01
-# Total: 3074 skills
+# Total: 3075 skills
+
+## Read Ledger
+slug: read-ledger
+category: Research & Scraping
+framework: Codex
+verification: Published
+description: Track research source and text-range coverage across contexts using JSONL snapshots, SHA-256 hashes, Unicode code-point offsets, and bounded resumable batches.
+url: https://agentskillexchange.com/skills/read-ledger/
 
 ## WebAsk Results Digest
 slug: webask-results-digest

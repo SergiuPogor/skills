@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-01",
-  "total": 3074,
+  "total": 3075,
   "skills": [
+    {
+      "slug": "read-ledger",
+      "name": "Read Ledger",
+      "title": "Read Ledger",
+      "description": "Track research source and text-range coverage across contexts using JSONL snapshots, SHA-256 hashes, Unicode code-point offsets, and bounded resumable batches.",
+      "category": "Research & Scraping",
+      "framework": "Codex",
+      "verification": "listed",
+      "source_url": "https://github.com/makoncline/read-ledger",
+      "github_repo": "makoncline/read-ledger"
+    },
     {
       "slug": "webask-results-digest",
       "name": "WebAsk Results Digest",

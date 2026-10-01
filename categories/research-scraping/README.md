@@ -159,6 +159,7 @@ Web research, data collection, content aggregation, and information gathering.
 | [Patent Landscape Analyzer](../../skills/patent-landscape-analyzer/) | — | — |
 | [Product Review Sentiment Aggregator](../../skills/product-review-sentiment-aggregator/) | — | — |
 | [PubMed Literature Mining Agent](../../skills/pubmed-literature-mining-agent/) | — | — |
+| [Read Ledger](../../skills/read-ledger/) | — | — |
 | [ScrapingBee API Data Harvester](../../skills/scrapingbee-api-data-harvester/) | — | — |
 | [ScrapyCloud Job Manager](../../skills/scrapycloud-job-manager/) | — | — |
 | [SEC EDGAR Filing Scraper & Analyzer](../../skills/sec-edgar-filing-scraper-analyzer/) | — | — |
