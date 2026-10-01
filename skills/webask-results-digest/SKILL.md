@@ -2,10 +2,10 @@
 name: "WebAsk Results Digest"
 slug: "webask-results-digest"
 description: "Summarize WebAsk survey distributions, filtered reports and free-text answers with get_quiz_summary, get_quiz_report and get_quiz_report_inputs. Use for survey findings, period comparisons or report figures; state percentage bases and incomplete-response caveats."
+verification: "listed"
+source: "https://github.com/WebAskio/webask-mcp/tree/main/en/skills/webask-results-digest"
 category: "Data Extraction & Transformation"
 framework: "MCP"
-verification: listed
-source: "https://github.com/WebAskio/webask-mcp/tree/main/en/skills/webask-results-digest"
 ---
 
 # WebAsk Results Digest
