@@ -2,8 +2,19 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-01",
-  "total": 3073,
+  "total": 3074,
   "skills": [
+    {
+      "slug": "webask-results-digest",
+      "name": "WebAsk Results Digest",
+      "title": "WebAsk Results Digest",
+      "description": "Summarize WebAsk survey distributions, filtered reports and free-text answers with get_quiz_summary, get_quiz_report and get_quiz_report_inputs. Use for survey findings, period comparisons or report figures; state…",
+      "category": "Data Extraction & Transformation",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://github.com/WebAskio/webask-mcp/tree/main/en/skills/webask-results-digest",
+      "github_repo": "WebAskio/webask-mcp"
+    },
     {
       "slug": "verify-nano-payment",
       "name": "Verify a Nano (XNO) Payment",

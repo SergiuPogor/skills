@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-01
-# Total: 3073 skills
+# Total: 3074 skills
+
+## WebAsk Results Digest
+slug: webask-results-digest
+category: Data Extraction & Transformation
+framework: MCP
+verification: Published
+description: Summarize WebAsk survey distributions, filtered reports and free-text answers with get_quiz_summary, get_quiz_report and get_quiz_report_inputs. Use for survey findings, period comparisons or report figures; state…
+url: https://agentskillexchange.com/skills/webask-results-digest/
 
 ## Verify a Nano (XNO) Payment
 slug: verify-nano-payment
