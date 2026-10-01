@@ -2,10 +2,12 @@
 name: "Read Ledger"
 slug: "read-ledger"
 description: "Track research source and text-range coverage across contexts using JSONL snapshots, SHA-256 hashes, Unicode code-point offsets, and bounded resumable batches."
+verification: "listed"
+source: "https://github.com/makoncline/read-ledger"
 category: "Research & Scraping"
 framework: "Codex"
-verification: listed
-source: "https://github.com/makoncline/read-ledger"
+tool_ecosystem:
+  github_repo: "makoncline/read-ledger"
 ---
 
 # Read Ledger
@@ -16,28 +18,9 @@ The workflow uses the agent's existing shell and language tools to parse records
 
 ## Installation
 
-### Codex, project-local manual install
+No source-backed install or usage instructions could be extracted automatically. Review the upstream project before running this skill in a sensitive workflow.
 
-Run from the project where you want the skill available. Use a new destination so an existing installation remains intact:
-
-```bash
-mkdir -p .agents/skills
-git clone --depth 1 https://github.com/makoncline/read-ledger.git .agents/skills/read-ledger
-```
-
-Then ask Codex to use `read-ledger` to inventory your supplied research files, review one bounded batch, and save a private `ledger.jsonl`. Keep that research ledger beside your source files, separate from the installed synthetic example.
-
-### Optional third-party installer
-
-The `skills` npm package is maintained by Vercel Labs / third parties, not AgentSkillExchange. If you choose to use it, pin the package version and select Codex with project scope:
-
-```bash
-npm exec --package=skills@1.5.7 -- skills add makoncline/read-ledger --skill read-ledger
-```
-
-The canonical repository also supports the file-based workflow: give your agent its `SKILL.md` directly. An installer is optional.
-
-Track which source text has been reviewed across batches. Keep `ledger.jsonl` beside the private research files. Use [example.jsonl](https://github.com/makoncline/read-ledger/blob/main/example.jsonl) only as a synthetic format example; start a new ledger for real work.
+- Source: https://github.com/makoncline/read-ledger
 
 ## Procedure
 
