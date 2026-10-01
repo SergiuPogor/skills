@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Apache Superset Dashboard and SQL Exploration Skill](skills/apache-superset-dashboard-sql-exploration-skill/)** — Apache Superset is a widely adopted open-source BI platform for SQL exploration, chart building, and dashboard delivery. This skill is useful when an agent needs to query warehouse…
+**[Run local tool-calling agent inference with Rapid-MLX](skills/run-local-tool-calling-agent-inference-with-rapid-mlx/)** — Serve OpenAI- and Anthropic-compatible local LLM endpoints on Apple Silicon so coding agents can run tool-calling workflows against on-device models.
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
