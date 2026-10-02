@@ -2,8 +2,18 @@
   "schema": "codex-skills/1.0",
   "source": "https://agentskillexchange.com",
   "generated": "2026-10-02",
-  "total": 3075,
+  "total": 3076,
   "skills": [
+    {
+      "slug": "eye-art-polyphemus",
+      "name": "Eye.Art Polyphemus Image Creation",
+      "title": "Eye.Art Polyphemus Image Creation",
+      "description": "Use Eye.Art Polyphemus as a no-key hosted MCP for conversational image creation, reference-preserving edits, artist-guided art, site-matched visuals, editable SVG, and supported motion.",
+      "category": "Image & Creative Automation",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://eye.art/polyphemus/api"
+    },
     {
       "slug": "read-ledger",
       "name": "Read Ledger",

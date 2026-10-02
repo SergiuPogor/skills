@@ -1,8 +1,18 @@
 {
   "version": "2.0",
-  "total": 3075,
+  "total": 3076,
   "generated": "2026-10-02",
   "skills": [
+    {
+      "slug": "eye-art-polyphemus",
+      "name": "Eye.Art Polyphemus Image Creation",
+      "title": "Eye.Art Polyphemus Image Creation",
+      "description": "Use Eye.Art Polyphemus as a no-key hosted MCP for conversational image creation, reference-preserving edits, artist-guided art, site-matched visuals, editable SVG, and supported motion.",
+      "category": "Image & Creative Automation",
+      "framework": "MCP",
+      "verification": "listed",
+      "source_url": "https://eye.art/polyphemus/api"
+    },
     {
       "slug": "read-ledger",
       "name": "Read Ledger",
@@ -180,6 +190,9 @@
       "category": "Developer Tools",
       "framework": "Claude Code",
       "verification": "listed",
+      "signals": {
+        "github_stars": 3
+      },
       "source_url": "https://github.com/louis030195/hyperconsciousness",
       "github_repo": "louis030195/hyperconsciousness"
     },

@@ -134,6 +134,7 @@ Image generation, asset processing, design automation, and creative tooling.
 | [Cloudinary Media Optimization Agent](../../skills/cloudinary-media-optimization-agent/) | — | — |
 | [Cloudinary Media Transform Skill](../../skills/cloudinary-media-transform-skill/) | — | — |
 | [DALL-E 3 Brand Asset Batch Generator](../../skills/dall-e-3-brand-asset-batch-generator/) | — | — |
+| [Eye.Art Polyphemus Image Creation](../../skills/eye-art-polyphemus/) | — | — |
 | [Figma Design Token Exporter](../../skills/figma-design-token-exporter/) | — | — |
 | [Figma Design Token Extractor](../../skills/figma-design-token-extractor-3/) | — | — |
 | [Figma Export Automator](../../skills/figma-export-automator/) | — | — |

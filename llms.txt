@@ -1,7 +1,15 @@
 # Agent Skill Exchange — Full Skill Catalog
 # Source: https://agentskillexchange.com
 # Generated: 2026-10-02
-# Total: 3075 skills
+# Total: 3076 skills
+
+## Eye.Art Polyphemus Image Creation
+slug: eye-art-polyphemus
+category: Image & Creative Automation
+framework: MCP
+verification: Published
+description: Use Eye.Art Polyphemus as a no-key hosted MCP for conversational image creation, reference-preserving edits, artist-guided art, site-matched visuals, editable SVG, and supported motion.
+url: https://agentskillexchange.com/skills/eye-art-polyphemus/
 
 ## Read Ledger
 slug: read-ledger

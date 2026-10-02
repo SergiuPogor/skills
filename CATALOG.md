@@ -1,6 +1,6 @@
 # Agent Skill Exchange — Full Catalog
 
-> **3075 published skills** across **17 categories** · 2,567 security reviewed · Updated 2026-10-02 01:27 UTC
+> **3076 published skills** across **17 categories** · 2,567 security reviewed · Updated 2026-10-02 07:28 UTC
 >
 > Browse the [live marketplace](https://agentskillexchange.com/browse-skills/) for search, filtering, and one-click install.
 
@@ -494,6 +494,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Index a codebase into evidence-backed memory so agents can answer with citations](skills/index-a-codebase-into-evidence-backed-memory-so-agents-can-answer-with-citations/) | Use AtlasMemory when an agent keeps losing repo context and needs indexed, evidence-linked answers with file and… | Security Reviewed | 5 | 1.9k/wk |
 | [Staff Engineer Mode](skills/staff-engineer-mode/) | Routes engineering design, delivery, reliability, security, operations, and maintenance prompts to one native router… | Security Reviewed | 5 | — |
 | [Clean Closed Issue Worktrees](skills/clean-closed-issue-worktrees/) | Safely audits and removes Git worktrees linked to closed GitHub or GitLab issues with a mandatory… | Published | 3 | — |
+| [Hyperconsciousness Knowledge Discovery](skills/hyperconsciousness-knowledge-discovery/) | Use the Hyperconsciousness hc CLI to find installed skills, PKM references, and encrypted knowledge with bounded,… | Published | 3 | — |
 | [YYLO Ledger Task Management](skills/ledger-tasks-yylo/) | Operate a YYLO Ledger Kanban board from the command line with the yy ledger CLI; create, search, update, and mark… | Published | 1 | — |
 | [Turn GitHub Issues into Fix PRs](skills/turn-github-issues-into-fix-prs/) | Use the gh-issues workflow to fetch filtered GitHub issues, spawn sub-agents for fixes, open PRs, and follow review… | Security Reviewed | — | 837.2k/wk |
 | [Build scroll-linked animations with GSAP ScrollTrigger](skills/build-scroll-linked-animations-with-gsap-scrolltrigger/) | Use Greensock's official gsap-scrolltrigger skill to plan, implement, and debug scroll-linked animations, pinned… | Security Reviewed | — | — |
@@ -504,7 +505,6 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Deve
 | [Git Diff Complexity Analyzer](skills/git-diff-complexity-analyzer/) | Analyzes git diffs using libgit2 and radon to compute cyclomatic complexity changes per function. Flags complexity… | Security Reviewed | — | — |
 | [GitHub Copilot — AI-Powered Code Completion and Chat Assistant](skills/github-copilot-ai-code-assistant/) | GitHub Copilot is an AI pair programmer providing real-time code suggestions, multi-line completions, and chat-based… | Security Reviewed | — | — |
 | [Google Cloud CLI (gcloud) — Command-Line Interface for GCP](skills/google-cloud-cli-gcloud/) | The Google Cloud CLI provides command-line access to 200+ GCP services including Compute Engine, Cloud Run, GKE,… | Published | — | — |
-| [Hyperconsciousness Knowledge Discovery](skills/hyperconsciousness-knowledge-discovery/) | Use the Hyperconsciousness hc CLI to find installed skills, PKM references, and encrypted knowledge with bounded,… | Published | — | — |
 | [Jira Advanced Query Agent](skills/jira-advanced-query-agent/) | Jira Advanced Query Agent is built around Jira issue tracking platform. It gives an agent a more technical and… | Published | — | — |
 | [Linear Issue Manager](skills/linear-issue-manager/) | Linear Issue Manager is built around GraphQL API ecosystem. The underlying ecosystem is represented by… | Security Reviewed | — | — |
 | [LLDB Debug Session Automator](skills/lldb-debug-session-automator/) | Automates LLDB debugging sessions with scripted breakpoint management and expression evaluation. Uses the LLDB… | Security Reviewed | — | — |
@@ -2777,7 +2777,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Brow
 | [Verify local web apps with Playwright scripts and managed dev servers](skills/verify-local-web-apps-with-playwright-scripts-and-managed-dev-servers/) | Use Anthropic's webapp-testing skill to spin up one or more local servers, wait for them to become reachable, and… | Security Reviewed | — | — |
 
 
-### 🎨 Image & Creative Automation (112 skills)
+### 🎨 Image & Creative Automation (113 skills)
 
 Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation) · [Top Starred](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=stars) · [Top Downloaded](https://agentskillexchange.com/browse-skills/?category=Image%20%26%20Creative%20Automation&sort=downloads)
 
@@ -2877,6 +2877,7 @@ Live views: [Browse](https://agentskillexchange.com/browse-skills/?category=Imag
 | [Cloudinary Media Optimization Agent](skills/cloudinary-media-optimization-agent/) | Automates image and video optimization workflows via the Cloudinary Upload and Admin APIs. Applies responsive… | Security Reviewed | — | — |
 | [Cloudinary Media Transform Skill](skills/cloudinary-media-transform-skill/) | Manages image and video assets through the Cloudinary Upload and Admin APIs. Applies on-the-fly transformations,… | Security Reviewed | — | — |
 | [DALL-E 3 Brand Asset Batch Generator](skills/dall-e-3-brand-asset-batch-generator/) | Batch-generates brand assets using the OpenAI Images API with DALL-E 3. Manages prompt engineering for consistent… | Published | — | — |
+| [Eye.Art Polyphemus Image Creation](skills/eye-art-polyphemus/) | Use Eye.Art Polyphemus as a no-key hosted MCP for conversational image creation, reference-preserving edits,… | Published | — | — |
 | [Figma Design Token Exporter](skills/figma-design-token-exporter/) | Extracts design tokens from Figma files using the Figma REST API v1 and transforms them into platform-specific… | Security Reviewed | — | — |
 | [Figma Design Token Extractor](skills/figma-design-token-extractor-3/) | Extracts design tokens from Figma files using the Figma REST API and style-dictionary. Generates CSS custom… | Security Reviewed | — | — |
 | [Figma Export Automator](skills/figma-export-automator/) | Exports assets from Figma files using the Figma REST API v1. Extracts component sets, design tokens (colors,… | Security Reviewed | — | — |

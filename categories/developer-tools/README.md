@@ -520,6 +520,7 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Index a codebase into evidence-backed memory so agents can answer with citations](../../skills/index-a-codebase-into-evidence-backed-memory-so-agents-can-answer-with-citations/) | 5 | 1.9k/wk |
 | [Staff Engineer Mode](../../skills/staff-engineer-mode/) | 5 | — |
 | [Clean Closed Issue Worktrees](../../skills/clean-closed-issue-worktrees/) | 3 | — |
+| [Hyperconsciousness Knowledge Discovery](../../skills/hyperconsciousness-knowledge-discovery/) | 3 | — |
 | [YYLO Ledger Task Management](../../skills/ledger-tasks-yylo/) | 1 | — |
 | [Turn GitHub Issues into Fix PRs](../../skills/turn-github-issues-into-fix-prs/) | — | 837.2k/wk |
 | [Build scroll-linked animations with GSAP ScrollTrigger](../../skills/build-scroll-linked-animations-with-gsap-scrolltrigger/) | — | — |
@@ -530,7 +531,6 @@ CLI helpers, dev environment setup, productivity utilities, and developer workfl
 | [Git Diff Complexity Analyzer](../../skills/git-diff-complexity-analyzer/) | — | — |
 | [GitHub Copilot — AI-Powered Code Completion and Chat Assistant](../../skills/github-copilot-ai-code-assistant/) | — | — |
 | [Google Cloud CLI (gcloud) — Command-Line Interface for GCP](../../skills/google-cloud-cli-gcloud/) | — | — |
-| [Hyperconsciousness Knowledge Discovery](../../skills/hyperconsciousness-knowledge-discovery/) | — | — |
 | [Jira Advanced Query Agent](../../skills/jira-advanced-query-agent/) | — | — |
 | [Linear Issue Manager](../../skills/linear-issue-manager/) | — | — |
 | [LLDB Debug Session Automator](../../skills/lldb-debug-session-automator/) | — | — |
