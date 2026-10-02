@@ -1,11 +1,11 @@
 ---
-name: Eye.Art Polyphemus Image Creation
-slug: eye-art-polyphemus
-description: Use Eye.Art Polyphemus as a no-key hosted MCP for conversational image creation, reference-preserving edits, artist-guided art, site-matched visuals, editable SVG, and supported motion.
-category: Image & Creative Automation
-framework: MCP
-verification: listed
-source: https://eye.art/polyphemus/api
+name: "Eye.Art Polyphemus Image Creation"
+slug: "eye-art-polyphemus"
+description: "Use Eye.Art Polyphemus as a no-key hosted MCP for conversational image creation, reference-preserving edits, artist-guided art, site-matched visuals, editable SVG, and supported motion."
+verification: "listed"
+source: "https://eye.art/polyphemus/api"
+category: "Image & Creative Automation"
+framework: "MCP"
 ---
 
 # Eye.Art Polyphemus Image Creation

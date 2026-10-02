@@ -2,12 +2,15 @@
 name: "Hyperconsciousness Knowledge Discovery"
 slug: "hyperconsciousness-knowledge-discovery"
 description: "Use the Hyperconsciousness hc CLI to find installed skills, PKM references, and encrypted knowledge with bounded, read-only queries when the user requests local context discovery."
+github_stars: 3
 verification: "listed"
 source: "https://github.com/louis030195/hyperconsciousness"
+author: "Louis Beaumont"
 category: "Developer Tools"
 framework: "Claude Code"
 tool_ecosystem:
   github_repo: "louis030195/hyperconsciousness"
+  github_stars: 3
 ---
 
 # Hyperconsciousness Knowledge Discovery
