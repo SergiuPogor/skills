@@ -51,7 +51,7 @@ npm exec --package=skills@1.5.7 -- skills add agentskillexchange/skills --skill 
 
 ## Skill of the Day
 
-**[Run local tool-calling agent inference with Rapid-MLX](skills/run-local-tool-calling-agent-inference-with-rapid-mlx/)** — Serve OpenAI- and Anthropic-compatible local LLM endpoints on Apple Silicon so coding agents can run tool-calling workflows against on-device models.
+**[Orchestrate local-first agent memory and workflows with OpenHuman](skills/orchestrate-local-first-agent-memory-and-workflows-with-openhuman/)** — Set up OpenHuman as a local-first personal agent harness that syncs context, builds durable memory, and coordinates multi-agent workflows behind approval gates.
 
 _Rotates daily across downloaded, starred, recent, verified, and industry-curated skills._
 
@@ -130,7 +130,7 @@ Mirrors the live ASE homepage featured shelf: recent-popular, diversified across
 | [Compile agent-ready documentation bundles with docmd](skills/compile-agent-ready-documentation-bundles-with-docmd/) | Use docmd when a project needs one Markdown documentation source to produce a site, search index, llms.txt, MCP... | 2.5k | Library & API Reference |
 | [Build agent-maintainable reactive UI with ArrowJS](skills/build-agent-maintainable-reactive-ui-with-arrowjs/) | Use ArrowJS when a coding agent needs to add or maintain small reactive web interfaces using DOM-native JavaScript... | 3.8k | Developer Tools |
 | [Query HyperDX logs, traces, metrics, and session replay from agent incident workflows](skills/query-hyperdx-logs-traces-and-session-replay-from-agent-incident-workflows/) | Use HyperDX and its agent-friendly CLI output to search, live-tail, and correlate OpenTelemetry signals during supervised production investigations | 9.9k | Monitoring & Alerts |
-| [Generate API docs, SDKs, and MCP servers with Cortex](skills/generate-api-docs-sdks-and-mcp-servers-with-cortex/) | Use Cortex when an agent or API operator needs to turn OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, or Markdown... | 3.2k | Library & API Reference |
+| [Build source-owned API and MCP documentation with Sourcey](skills/build-source-owned-api-and-mcp-documentation-with-sourcey/) | Use Sourcey to turn OpenAPI, MCP, Doxygen, godoc, rustdoc, MkDocs, and Markdown sources into static documentation, search, code... | 1.4k | Library & API Reference |
 | [Run visual E2E QA workflows with TestDriverAI](skills/run-visual-e2e-qa-workflows-with-testdriverai/) | Use TestDriverAI to initialize, author, and run vision-assisted Vitest E2E checks for browser, desktop, extension, chatbot, OAuth, upload... | 243 | Browser Automation |
 | [Collect TikTok and Douyin data through a self-hosted MCP server](skills/collect-tiktok-and-douyin-data-through-a-self-hosted-mcp-server/) | Run Douyin_TikTok_Download_API as a private MCP-backed service so agents can parse, archive, and retrieve TikTok or Douyin posts... | 20.1k | Research & Scraping |
 
